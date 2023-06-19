@@ -1,2 +1,5 @@
-# youtubeAPI
-Code sample of a youtube api wrappper in nodejs
+# Youtube API Sample 
+
+"npm run devStart" to run server on server.js file.
+
+Mongo database with a node backend
